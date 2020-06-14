@@ -4,6 +4,12 @@
  
  A python interpreter is required in order to execute this script. 
  
- pip install -r requirements.txt
+ ##Install the requirements :
  
+ Run `pip install -r requirements.txt`
  
+ ## Running the script: 
+ 
+ Run `python InsatDownloader.py`
+ 
+The current INSAT image will be downloaded in the directory of the project.
