@@ -4,7 +4,7 @@
  
  A python interpreter is required in order to execute this script. 
  
- ##Install the requirements :
+ ## Install the requirements :
  
  Run `pip install -r requirements.txt`
  
